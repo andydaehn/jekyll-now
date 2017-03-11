@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Web Developer and Computer Science student at Regis University.
+[Blackbird By Design](http://blackbirdbydesign.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andydaehn@gmail.com](mailto:email@domain.com)
